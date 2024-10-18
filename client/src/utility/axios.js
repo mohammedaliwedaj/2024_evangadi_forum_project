@@ -7,5 +7,6 @@ export const axiosInstance = axios.create({
   // baseURL: `http://localhost:${serverPort}/api/v1`,
 
   // deployed endpoint reference
-  baseURL: "https://evangadiforumproject-vpsk.onrender.com/api/v1",
+  // baseURL: "https://evangadiforumproject-vpsk.onrender.com/api/v1",
+  baseURL: "https://two024-evangadi-forum-project.onrender.com/api/v1",
 });
